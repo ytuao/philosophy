@@ -119,7 +119,7 @@ Mythos（神話） → Logos（理性）
 - 存在本身是什麼？
 ```
 
-這是整個西方哲學最核心的問題之一，後來從柏拉圖（Plato）、亞里斯多德（Aristotle）、笛卡兒（Descartes）、康德（Kant）到海德格（Heidegger），都在以不同方式回應這個問題。[1]
+這是整個西方哲學最核心的問題之一，後來從柏拉圖（Plato）、亞里斯多德（Aristotle）、笛卡兒（Descartes）、康德（Kant）到海德格（Heidegger），都在以不同方式回應這個問題。
 
 ***
 
