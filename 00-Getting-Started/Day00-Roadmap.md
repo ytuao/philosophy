@@ -94,7 +94,7 @@
 
 - 黑格爾（G. W. F. Hegel）
 - 叔本華（Arthur Schopenhauer）
-- 克爾凱郭爾（Søren Kierkegaard）
+- 齊克果（Søren Kierkegaard）
 - 馬克思（Karl Marx）
 - 尼采（Friedrich Nietzsche）
 
@@ -119,8 +119,8 @@
 **學習對象**
 
 - 胡塞爾（Edmund Husserl）
-- 海德格（Martin Heidegger）
-- 沙特（Jean-Paul Sartre）
+- 海德格爾（Martin Heidegger）
+- 薩特（Jean-Paul Sartre）
 - 傅柯（Michel Foucault）
 - 德希達（Jacques Derrida）
 
@@ -135,7 +135,7 @@
 
 - 弗雷格（Gottlob Frege）
 - 羅素（Bertrand Russell）
-- 維根斯坦（Ludwig Wittgenstein）
+- 維特根斯坦（Ludwig Wittgenstein）
 - 奎因（W. V. O. Quine）
 
 ### 第六階段：21 世紀議題（最後 2 週）
@@ -180,13 +180,13 @@
 ### 問題鏈示例：世界是什麼？
 
 ```text
-Thales（泰勒斯）           → 水（water）
+Thales（泰勒斯）            → 水（water）
 Heraclitus（赫拉克利特）   → 變化（change）
-Plato（柏拉圖）            → 理念（Forms / Ideas）
+Plato（柏拉圖）           → 理念（Forms / Ideas）
 Aristotle（亞里斯多德）    → 實體（substance）
 Descartes（笛卡兒）        → 精神與物質（mind and matter）
-Kant（康德）               → 現象與物自體（phenomena and noumena）
-Heidegger（海德格）        → 存在（Being）
+Kant（康德）                → 現象與物自體（phenomena and noumena）
+Heidegger（海德格爾）         → 存在（Being）
 ```
 
 這代表學習哲學時，真正要追蹤的不是人物名單本身，而是問題如何演化。
